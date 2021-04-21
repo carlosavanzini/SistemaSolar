@@ -64,3 +64,8 @@ footer{
     font-size: 30px;color: white;
     background: linear-gradient(to bottom,black,white);
 }
+
+nav ul li:hover{
+    background: linear-gradient(to bottom,rgb(141, 35, 35),rgb(165, 137, 137));
+    border-radius: 9px;
+}
